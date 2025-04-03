@@ -2046,15 +2046,15 @@
 //     }
 // }
 
-import java.io.*;
+//import java.io.*;
 
-class college {
-    public static void main(String[] args) throws IOException {
-        File f = new File("C:\\Users\\Sahil\\Desktop\\lc.txt");
-        if (f.createNewFile()) {
-            System.out.println("File successfully created.");
-        } else {
-            System.out.println("File already exists.");
-        }
-    }
-}
+//class college {
+//    public static void main(String[] args) throws IOException {
+//        File f = new File("C:\\Users\\Sahil\\Desktop\\lc.txt");
+//        if (f.createNewFile()) {
+//           System.out.println("File successfully created.");
+//        } else {
+//            System.out.println("File already exists.");
+//        }
+//    }
+//}
